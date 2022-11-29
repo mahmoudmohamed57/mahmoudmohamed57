@@ -3,7 +3,7 @@
 <br>
 
 - 🌱 I’m currently Learning and Developing **Web Apps and Mobile Apps for learning purposes.**
-- 📄 Know more about me from my <a href="https://drive.google.com/file/d/1mKKcu5TdAJaQTqrvdjEtOWqop6V0UcJw/view?usp=sharing" target="_blank">Resume</a>
+- 📄 Know more about me from my <a href="https://drive.google.com/file/d/1539tIdceZ15f8nJK5Z9FDJEl2p7Kwa5P/view?usp=sharing" target="_blank">Resume</a>
 <hr>
 <h3> Connect With me:</h3>
 <br>
